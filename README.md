@@ -5,4 +5,4 @@ for Cloud9 env  managed by Terraform
 # 構築方法
 本リポジトリのコードを使用します。  
 詳細な手順は以下記事で紹介しています。  
-https://blog-benri-life.com/cloud9-public-env-by-terraform/
+https://blog-benri-life.com/cloud9-public-ssh-by-terraform/
